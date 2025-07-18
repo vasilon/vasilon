@@ -3,7 +3,7 @@
 Soy **Desarrollador Fullstack** apasionado por la tecnología y el aprendizaje constante :contentReference[oaicite:0]{index=0}.  
 Aquí encontrarás mis proyectos académicos y personales, así como un resumen de mis habilidades y experiencia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javierhuelamo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier-huélamo-gracia-b84919260)  
 [![GitHub Followers](https://img.shields.io/github/followers/javihuelamo?label=Followers&style=social)](https://github.com/javihuelamo)  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=javihuelamo.profile)](https://github.com/javihuelamo)  
 
