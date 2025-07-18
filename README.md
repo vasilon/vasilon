@@ -36,24 +36,28 @@ Aquí encontrarás mis proyectos académicos y personales, así como un resumen 
 
 🛠️ **Tecnologías**  
 
-**Lenguajes**  
-TypeScript • JavaScript • HTML5 • CSS3 • Kotlin
+### Lenguajes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?logo=css3&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
 
+### Frameworks & Librerías
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=for-the-badge)
 
-**Frameworks y Librerías**  
-React • Next.js • Jetpack Compose
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
-
-**Bases de Datos**  
-Firebase Realtime DB • Firestore • SQLite • SQL Server • MySQL • PostgreSQL
-
-
-**Herramientas & DevOps**  
-Git • GitHub • GitLab • Docker • PM2 • Nginx • Vercel • Cloudflare • Linux
-
-
-**SEO & Accesibilidad**  
-Principios básicos de SEO • Buenas prácticas de accesibilidad
+### Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=for-the-badge)
 
 
 ---
