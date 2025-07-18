@@ -21,13 +21,13 @@ Aquí encontrarás mis proyectos académicos y personales, así como un resumen 
 ---
 
 🧑‍💻 **Experiencia**  
-- **Desarrollo Personal (2025-Actualidad):**  
+- **Desarrollo web (Prácticas)):**  
   - Creación de 3 landing pages responsivas con React, Next.js y TypeScript, aplicando buenas prácticas de rendimiento (lazy loading, rutas dinámicas, componentes reutilizables).  
   - Despliegue en servidores Linux (Ubuntu) con Nginx y PM2; configuración de dominios, redirecciones HTTPS y certificados SSL.  
   - Gestión de DNS (GoDaddy, Namecheap, Cloudflare) y automatización de despliegues con GitHub Actions y branching profesional.  
   - Aplicación de principios básicos de SEO y accesibilidad para mejorar visibilidad y usabilidad.
 
-- **Técnico en Desarrollo de Aplicaciones Multiplataforma @ Grup onexcom (Prácticas):**  
+- **Desarrollo Móvil Gruponexcom (Prácticas):**  
   - Lideré el diseño y desarrollo de una app Android de juego de cartas competitivo con lógica en tiempo real.  
   - Implementé UI adaptativa con Jetpack Compose (MVVM, coroutines, gestión de estado reactivo).  
   - Diseñé, desarrollé y desplegué 3 landing pages como parte del equipo.
