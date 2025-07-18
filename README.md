@@ -11,13 +11,12 @@ Aquí encontrarás mis proyectos académicos y personales, así como un resumen 
 
 🙋‍♂️ **Sobre mí**  
 - 🎓 **Formación:**  
-  - Grado Superior en Desarrollo de Aplicaciones Multiplataforma (2025) :contentReference[oaicite:1]{index=1}  
-  - Grado en Estudios Ingleses (Salesianos Alcalá de Henares, Matrícula de Honor – 2016) :contentReference[oaicite:2]{index=2}  
-  - Universidad de Alcalá de Henares (3 años cursados)  
+  - Grado Superior en Desarrollo de Aplicaciones Multiplataforma  (Salesianos Alcalá de Henares, Matrícula de Honor 2025 ) 
+  - Grado en Estudios Ingleses(Universidad de Alcalá de Henares)
 
 - 🌐 **Idiomas:**  
   - Español (Nativo)  
-  - Inglés (Avanzado, C1) :contentReference[oaicite:3]{index=3}  
+  - Inglés (Avanzado, C1)
 
 ---
 
