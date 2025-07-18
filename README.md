@@ -1,6 +1,6 @@
 # ¡Hola! Soy Javier 👋
 
-Soy **Desarrollador Fullstack** apasionado por la tecnología y el aprendizaje constante :contentReference[oaicite:0]{index=0}.  
+Soy **Desarrollador Fullstack** apasionado por la tecnología y el aprendizaje constante.
 Aquí encontrarás mis proyectos académicos y personales, así como un resumen de mis habilidades y experiencia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier-huélamo-gracia-b84919260)  
@@ -69,8 +69,8 @@ Principios básicos de SEO • Buenas prácticas de accesibilidad
 ---
 
 📊 **GitHub Analytics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javihuelamo&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javihuelamo&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasilon&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilon&layout=compact)  
 
 ---
 
